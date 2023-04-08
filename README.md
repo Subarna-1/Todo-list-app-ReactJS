@@ -1,5 +1,5 @@
 ![React Todo App](./banner.png1)
-**Run: [https://wc-react-todo-app.netlify.app/](https://wc-react-todo-app.netlify.app/)**
+**Run: [Run](https://wc-react-todo-app.netlify.app/)**
 
 # Todo-list-App.
 
