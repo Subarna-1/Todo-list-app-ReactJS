@@ -1,11 +1,9 @@
-## ToDo List App
+# Todo List App.
 ![React Todo App](./banner.png1)
 
 **Run: [Execute](https://wc-react-todo-app.netlify.app/)**
 
-# Todo-list-App.
-
-## Requirements
+## Requirement:
 - ReactJs, HTML, CSS
 
 ## Getting Started
